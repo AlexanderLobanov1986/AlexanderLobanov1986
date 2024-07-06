@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderLobanov1986
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Skillfactory
+- 🌱 I’m currently learning Testing
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
